@@ -18,7 +18,7 @@ In this project API and small admin panel are made.
 
 ## Installation
 
-- insatall composer
+- install composer
 - install npm
 - php artisan migrate --seed
 - php artisan serve
