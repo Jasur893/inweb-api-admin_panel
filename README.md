@@ -25,6 +25,6 @@ In this project API and small admin panel are made.
 
 ## To manage the Admin Panel
 
-- admin@gmail.com
-- password123
+- email: admin@gmail.com
+- password: password123
 
